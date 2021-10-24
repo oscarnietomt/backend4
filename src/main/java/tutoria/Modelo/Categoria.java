@@ -57,16 +57,16 @@ public class Categoria implements Serializable {
         this.description = description;
     }
 
-    public List<Bicicleta> getBikes() {
-        return bikes;
+    public List<Bicicleta> getBike() {
+        return bike;
     }
 
-    public void setBikes(List<Bicicleta> bikes) {
-        this.bikes = bikes;
+    public void setBike(List<Bicicleta> bike) {
+        this.bike = bike;
     }
     
-    
-    
+
+              
     
     
     
